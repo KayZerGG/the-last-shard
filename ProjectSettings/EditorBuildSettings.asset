@@ -5,9 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Bootstrap.unity
+    guid: 79b54f7f37f93b24ba42a2c56d9b6196
+  - enabled: 1
+    path: Assets/Scenes/Space_Hub.unity
+    guid: ae22b913f23c6c14ca5f613a6ac3dc85
+  - enabled: 1
+    path: Assets/Scenes/Planet_Hub.unity
+    guid: e931f34384b2cc740aba1d9cd5e13efc
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: b342acbf5811c2e4baeca64c7591fc23, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
